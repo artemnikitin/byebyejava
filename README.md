@@ -7,6 +7,6 @@ If you already have Go installed, then just run
 Another way is to download a [binary](https://github.com/artemnikitin/byebyejava/releases/download/0.1/byebyejava) from latest release.    
 
 ### How to use
-Run it with `sudo`
-`sudo byebyejava`     
+Run it with `sudo`    
+`sudo byebyejava`      
 and enjoy Java-free MacOS
